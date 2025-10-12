@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://blog.543424.xyz/sitemap-index.xml
